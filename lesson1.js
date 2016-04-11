@@ -18,6 +18,7 @@ function init()
     scene.add(cube);
     camera.position.z = 5;
     render();
+    console.log( "lesson intialized" );
 }
 
 // render scene
